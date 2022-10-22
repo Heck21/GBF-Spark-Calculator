@@ -1,6 +1,11 @@
 #include <stdio.h>
 
 int main(){
+    
+    /* 
+    Calulates how much of a spark you have
+    */
+    
     int singleDraw, tenDraw, crystals, total;
     double percent;
 
